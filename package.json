@@ -11,7 +11,8 @@
     "products:airtable:dev": "node src/airtable/products.table.js"
   },
   "engines": {
-    "node": "19.x"
+    "node": "18.x",
+    "npm": "8.x"
   },
   "keywords": [],
   "author": "Daniel, Raffi",
